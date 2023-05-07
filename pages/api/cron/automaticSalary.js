@@ -55,4 +55,8 @@ export default async function automaticSalary(req, res) {
 {
     "path": "/api/cron/handleBirthday",
     "schedule": "0 0 * * *"
-}*/
+}
+        // {
+        //     "path": "/api/cron/handleAllowances",
+        //     "schedule": "0 0 1 * *"
+        // }*/

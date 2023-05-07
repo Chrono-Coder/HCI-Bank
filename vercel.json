@@ -1,0 +1,12 @@
+{
+    "crons": [
+        {
+            "path": "/api/cron/automaticSalary",
+            "schedule": "0 0 1 * *"
+        },
+        {
+            "path": "/api/cron/handleAllowances",
+            "schedule": "0 0 1 * *"
+        }
+    ]
+}

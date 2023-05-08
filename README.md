@@ -1,3 +1,4 @@
+The competition version of this project used AWS SNS to send SMSs of randomly generated passwords to users signing up. This version does not hae this feature and by default every user has the same password of `123`.
 Nextjs project with tailwindcss and prisma. Uses Capacitor for native deployment.
 
 ## Getting Started

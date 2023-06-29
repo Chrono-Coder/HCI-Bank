@@ -1,3 +1,10 @@
+# Intro
+The aim of this project is to develop a user-friendly banking system that complies with human computer interaction principles. 
+The system consists of a website and a mobile application that is designed for a seamless and convenient family banking experience for users.
+Both are developed separately but read & write data from the same database. 
+Manual documentation is provided to assist users in making informed decisions while minimizing errors.
+![Uploading image.png…]()
+
 # Note
 The competition version of this project used AWS SNS to send SMSs of randomly generated passwords to users signing up. This version does not hae this feature and by default every user has the same password of `123`.
 Nextjs project with tailwindcss and prisma. Uses Capacitor for native deployment.
